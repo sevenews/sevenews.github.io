@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Severud News</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Latest blog posts from Severud News</description>
+
+        
+        <language>en-us</language>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        
+
+        
+            
+        <item>
+          <title>An Unexpected Journey - Episode 3</title>
+          <link>http://localhost:1313/blog/uj-ep3/</link>
+          <pubDate>Sat, 07 Dec 2024 10:53:43 -0600</pubDate>
+          
+          <guid>http://localhost:1313/blog/uj-ep3/</guid>
+          <description><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>An Unexpected Journey - Episode 2</title>
+          <link>http://localhost:1313/blog/uj-ep2/</link>
+          <pubDate>Sat, 07 Dec 2024 09:42:29 -0600</pubDate>
+          
+          <guid>http://localhost:1313/blog/uj-ep2/</guid>
+          <description><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        <item>
+          <title>An Unexpected Journey - Episode 1</title>
+          <link>http://localhost:1313/blog/uj-ep1/</link>
+          <pubDate>Thu, 18 Apr 2024 12:00:00 +0000</pubDate>
+          
+          <guid>http://localhost:1313/blog/uj-ep1/</guid>
+          <description><!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+</description>
+        </item>
+            
+        
+    </channel>
+</rss>

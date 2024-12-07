@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Severud News'
+theme = 'notrack'
+
+[params]
+author = 'Robin & Joshua Severud'
+siteHeading = 'Severud News'
+footer = """\
+  Made with Hugo and Notrack\
+  """
+mainSections = ['home','blog']
+showBlogLatest = true
+
+[params.social]
+github = 'Forkentiney'
+email = 'contact@joshuaseverud.com'
